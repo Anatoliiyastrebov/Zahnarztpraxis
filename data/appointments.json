@@ -1,0 +1,13 @@
+[
+  {
+    "id": "apt_1779129486489_yd0r2la",
+    "fullName": "Max Mustermann",
+    "email": "max@test.de",
+    "phone": "089123456",
+    "preferredDate": "2026-06-01",
+    "service": "reinigung",
+    "message": "Test",
+    "createdAt": "2026-05-18T18:38:06.489Z",
+    "status": "pending"
+  }
+]
