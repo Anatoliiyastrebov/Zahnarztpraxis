@@ -19,7 +19,7 @@ export default function NotFound() {
         <Button>Zur Startseite</Button>
       </Link>
       <p className="mt-12 text-sm text-slate-500">
-        This website is a demo project for my portfolio.
+        Diese Website ist ein Demo-Projekt für mein Portfolio.
       </p>
     </div>
   );

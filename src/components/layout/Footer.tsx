@@ -62,7 +62,7 @@ export function Footer() {
 
         <div className="mt-10 border-t border-slate-200 pt-8 text-center">
           <p className="text-sm font-medium text-slate-700">
-            This website is a demo project for my portfolio.
+            Diese Website ist ein Demo-Projekt für mein Portfolio.
           </p>
           <p className="mt-2 text-xs text-slate-500">
             © {currentYear} {CLINIC.name}. Alle Rechte vorbehalten.

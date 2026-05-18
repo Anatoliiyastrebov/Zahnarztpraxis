@@ -95,7 +95,7 @@ export function BookingSection() {
               alt={IMAGES.booking.alt}
               fill
               sizes="400px"
-              imageClassName="object-cover"
+              imageClassName="object-cover object-center"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-medical-900/60 to-transparent" />
             <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
@@ -103,7 +103,7 @@ export function BookingSection() {
                 Persönliche Beratung
               </p>
               <p className="mt-1 text-sm text-white/90">
-                Wir nehmen uns Zeit für Ihre Fragen
+                Unser Team berät Sie gerne am Telefon
               </p>
             </div>
           </div>

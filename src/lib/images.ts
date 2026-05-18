@@ -29,10 +29,10 @@ export const IMAGES = {
     src: "/images/clinic/contact.jpg",
     alt: "München – Umgebung der Praxis (Symbolbild)",
   },
-  /** Beratungsgespräch Zahnarzt und Patient */
+  /** Empfang: freundliche Beratung am Telefon */
   booking: {
     src: "/images/clinic/booking.jpg",
-    alt: "Freundliche Beratung in der Zahnarztpraxis",
+    alt: "Mitarbeiterin am Empfang berät Patienten am Telefon",
   },
 } as const;
 

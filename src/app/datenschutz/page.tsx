@@ -29,7 +29,7 @@ export default function DatenschutzPage() {
         ← Zurück zur Startseite
       </Link>
       <p className="mt-12 border-t border-slate-200 pt-8 text-sm text-slate-600">
-        This website is a demo project for my portfolio.
+        Diese Website ist ein Demo-Projekt für mein Portfolio.
       </p>
     </div>
   );

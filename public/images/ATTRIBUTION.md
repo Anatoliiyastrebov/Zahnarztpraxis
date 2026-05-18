@@ -9,7 +9,7 @@ Alle Fotos von [Pexels](https://www.pexels.com) – kostenlose Lizenz.
 | clinic/about-1.jpg | Gesundes Lächeln | 5355848 |
 | clinic/about-2.jpg | Praxis-Empfang | 5718080 |
 | clinic/contact.jpg | München Stadtansicht | 290595 |
-| clinic/booking.jpg | Beratungsgespräch | 3845622 |
+| clinic/booking.jpg | Empfang – Mitarbeiterin am Telefon (Beratung) | 4173245 |
 | team/anna-weber.jpg | Zahnärztin Porträt | 5215024 |
 | team/markus-hoffmann.jpg | Zahnarzt Porträt (männlich) | 2379004 |
 | team/sarah-klein.jpg | ZFA Porträt (weiblich) | 762020 |
